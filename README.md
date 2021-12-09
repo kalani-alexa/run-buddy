@@ -12,3 +12,5 @@ https://kalani-alexa.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kalani West
+
+## ©️2019 Run Buddy, Inc
